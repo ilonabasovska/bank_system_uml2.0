@@ -1,0 +1,18 @@
+!SESSION 2018-01-18 11:16:07.087 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.6.0 IBM J9 2.4 Windows 7 x86-32 jvmwi3260sr15-20131231_180656 (JIT enabled, AOT enabled)
+J9VM - 20131231_180656
+JIT  - r9_20130920_46510ifx3
+GC   - GA24_Java6_SR15_20131231_1152_B180656
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pl_PL
+Framework arguments:  -product com.ibm.rational.rsastd.product.v75.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsastd.product.v75.ide
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2018-01-18 11:19:16.483
+!MESSAGE RAM Client is not installed. Please install the RAM Client to enable the RAM integration functionality.
+
+!ENTRY com.ibm.ccl.welcome.bits 4 0 2018-01-18 11:19:16.575
+!MESSAGE An RSS feed "http://www.ibm.com/developerworks/views/rss/customrssatom.jsp?zone_type=SixZones&zone_by=Rational&content_type=TwoTypes&type_by=Articles&type_by=Tutorials&search_by=UML&day=1&month=01&year=2009&max_entries=5&feed_by=rss&encoding=UTF-8&isGUI=true&Submit.x=33&Submit.y=13" is malformed.  News from this site is temporarily unavailable.
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2018-01-18 11:19:20.535
+!MESSAGE Could not acquire INavigatorContentService from part ("Welcome").
